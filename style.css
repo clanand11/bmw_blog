@@ -1,0 +1,19 @@
+ img{
+    width: 28%;
+    height: 28%;
+    margin: calc(13%/6);
+    position: relative;
+ }
+
+ body{
+    background-color: gray ;
+ }
+
+ nav{
+    border-bottom: 2px solid whitesmoke;
+    width: 28%;
+    margin-left: calc(13%/6);
+    padding: 20px 0;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    font-size: 50px;
+ }
